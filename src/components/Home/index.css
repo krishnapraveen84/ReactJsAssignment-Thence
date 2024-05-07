@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Manrope:wght@200..800&display=swap');
+.bg-container{
+    padding: 20px;
+    padding-bottom: 20px;
+    
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 35px 15px 35px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    outline: none;
+    border-color: lightgray;
+}
+.log{
+    width: 100%;
+}
+.nav-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30%;
+}
+.btn{
+    min-width: 150px;
+    padding: 15px;
+    border-radius: 25px;
+    border-width: 1px;
+    border-style: solid;
+    outline: none;
+    border-color: lightgray;
+    color: #1C1C1C;
+    font-size: 16px;
+    font-weight: 545;
+    background-color: transparent;
+}
+.btn:hover{
+    background-color: #1C1C1C;
+    color: #FFFFFF;
+}
+.link{
+    
+}
+.title-container{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.heading-3{
+    font-size: 36px;
+    color: #2DA950;
+    font-family: "Covered By Your Grace", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+
+}
+.paragraph-1{
+    color: #1C1C1C;
+    font-size: 50px;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 50%;
+    text-align: center;
+    margin-top: 0px;
+}
+.details-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    margin-top: 60px;
+
+}
+.frames-container{
+
+   
+}
+.girl-img{
+    width: 85%;
+    margin-left: 100px;
+}
+.card{
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+    outline: none;
+    border-radius: 15px;
+    width: 230px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    background-color: #FFFFFF;
+    margin-top: 100px;
+    
+}
+.spark-img{
+    position: absolute;
+}
+.percentage{
+    font-size: 40px;
+    color: #1C1C1C;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: 0px;
+    
+}
+.card-para{
+    padding-left: 20px;
+    padding-right: 15px;
+    margin-top: 5px;
+    color: #828282;
+    font-size: 15px;
+    
+}
+.deployment-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 220px;
+    background-color: #FFFFFF;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 65px;
+    padding: 15px 10px 15px 10px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 50px;
+
+}
+.deploy-img{
+    background-color: #DDEFE0;
+    border-radius: 50%;
+    padding: 5px;
+}
+.grp-heading{
+    margin: 0px;
+    font-size: 18px;
+}
+.grp-para{
+    margin: 1px;
+    color: #828282;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.expense-card{
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+    outline: none;
+    border-radius: 15px;
+    width: 230px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    background-color: #002E18;
+    color: #FFFFFF;
+    padding: 20px;
+    margin-top: 400px;
+    margin-left: 400px;
+    
+}
+.amount{
+    font-size: 38px;
+    margin: 0px;
+    
+}
+.million{
+    font-size: 15px;
+    color: #A6A3A0;
+    padding: 0px 10px 0px 3px;
+}
+.expense-para{
+    color: #CCCCCC;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.explore-more-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 40%;
+}
+.carousel-text{
+    font-size: 32px;
+    width: 60%;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 48px;
+}
+
+.explore-btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    outline: none;
+    border-style: none;
+    border-radius: 50px;
+    background-color: #1C1C1C;
+    width: 250px;
+    margin-top: 150px;
+    height: 80px;
+    
+  
+
+}
+.explore-para{
+    font-size: 22px;
+    padding-top: 12px;
+    color: #FFFFFF;
+}
+.qns-main-container{
+    margin-top: 160px;
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Manrope:wght@200..800&display=swap');
+
+
+.ask-container{
+    background-color: #E8EEE7;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;    
+} 
+.section-1{
+    width: 40%;
+    padding: 20px;
+} 
+.wrapper-div{
+    padding-left: 60px;
+    padding-top: 40px;
+} 
+.para{
+    margin-bottom: 5px;
+    font-family: "Covered By Your Grace", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+    color: #9E9D9D;
+    font-size: 32px;
+
+} 
+.ask-heading{
+    color: #1C1C1C;
+    font-size: 50px;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+} 
+/* .unicorn-img{
+
+} */
+.qns-section{
+    padding-left: 50px;
+    width: 60%;
+}
+.qns-list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+.list-item{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #D7D7D7;
+}
+.last-item{
+    border-style: none;
+}
+.question-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.question{
+    color: #1C1C1C;
+    font-size: 20px;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 16px;
+    
+}
+.pluse-icon{
+    font-size: 28px;
+}
+.answer{
+    font-size: 15px;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
